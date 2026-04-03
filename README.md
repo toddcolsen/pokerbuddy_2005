@@ -22,8 +22,8 @@ The two tables shown correspond to the two .pbt files in the root directory.
 - **$\color{red}{(1)}$** **Player Name:** Move mouse over the name to highlight in Red and bring up statistics labled (4).
 - **$\color{red}{(2)}$** **Winnings/Losings:** The amount of $ the player has won or lost since you've been in the game,  Green = Winning.  Red = Losing
 - **$\color{red}{(3)}$** **Fold/Raise statistics:** Put Mouse-Over to see text
-	-- The first four bars indicate players observed fold percentage on Pre-Flop, Flop, Turn, and River. $\color{red}{Red = 75}$ 
-	-- The second four bars indicate players observed raise percentage on Pre-Flop, Flop, Turn, and River. $\color{purple}{Purple = 75+%}$ $\color{orange}{Orange = 40-75%}$ $\color{blue}{Blue = 0-40%}$
+	-- The first four bars indicate players observed fold percentage on Pre-Flop, Flop, Turn, and River. $\color{red}{Red = 75\\%+}$ $\color{yellow}{Yellow = 40-75\\%}$ $\color{green}{Green = 0-40\\%}$
+	-- The second four bars indicate players observed raise percentage on Pre-Flop, Flop, Turn, and River. $\color{purple}{Purple = 75\\%+}$ $\color{orange}{Orange = 40-75\\%}$ $\color{blue}{Blue = 0-40\\%}$
 - **$\color{red}{(4)}$** **Player Stats:** Mouse-Over the PlayerName to see the Players Stats in the Center Panel
 - **$\color{red}{(5)}$** **Quick Pocket History:** Displays the Pocket Cards the player has been observed playing.
 	-- Initially Blank if the player was not in the last showdown.  Otherwise, initially shows pockets observed during the previous hand.
