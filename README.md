@@ -9,3 +9,6 @@ NOTICE: PokerBuddy only ever supported play at PartyPoker but even that changed 
 
 Double-Click pokerbuddy.jar to launch PokerBuddy
 
+You should see this interface.
+
+![PokerBuddy Main Window](./Images/PokerBuddy_Top_View_Annotated.jpg)
