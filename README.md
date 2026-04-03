@@ -11,4 +11,4 @@ Double-Click pokerbuddy.jar to launch PokerBuddy
 
 You should see this interface.
 
-![PokerBuddy Main Window](/Images/PokerBuddy_Top_View_Annotated.jpg)
+![PokerBuddy Main Window](https://github.com/toddcolsen/pokerbuddy_2005/tree/main/Images/PokerBuddy_Top_View_Annotated.jpg)
