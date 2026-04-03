@@ -7,8 +7,16 @@ NOTICE: PokerBuddy only ever supported play at PartyPoker but even that changed 
 
 ## Launching the demo
 
-Double-Click pokerbuddy.jar to launch PokerBuddy
+- Double-Click pokerbuddy.jar to launch PokerBuddy
 
 You should see this interface.
 
 ![PokerBuddy Main Window](Images/PokerBuddy_Top_View_Annotated.jpg)
+
+The two tables shown correspond to the two .pbt files in the root directory.
+
+- Press "Goto To Table" Button (press button for Table1 to proceed along with these instructions). It will initially be a white screen, but after a short wait you should see the screen below (w/out the annotations in red). This represents the state of the game at the termination of the history file.
+
+![PokerBuddy Main Window](Images/PokerBuddy_Table_View_Ann.jpg)
+
+1. <FONT COLOR="#FF0000">**(1)**</font> **Player Name:** Move mouse over the name to highlight in Red and bring up statistics labled (4).
