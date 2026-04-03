@@ -19,4 +19,4 @@ The two tables shown correspond to the two .pbt files in the root directory.
 
 ![PokerBuddy Main Window](Images/PokerBuddy_Table_View_Ann.jpg)
 
-1. <FONT COLOR="#FF0000">**(1)**</font> **Player Name:** Move mouse over the name to highlight in Red and bring up statistics labled (4).
+1. **$\color{red}{1}$ Player Name:** Move mouse over the name to highlight in Red and bring up statistics labled (4).
