@@ -4,7 +4,6 @@ PokerBuddy is a data visualization application for online poker that I made in 2
 
 NOTICE: PokerBuddy only ever supported play at PartyPoker but even that changed long ago.  It won't work with any online poker application available today and only survives in this little demo form.  
 
-
 ## Launching the demo
 
 - Double-Click pokerbuddy.jar to launch PokerBuddy
@@ -34,3 +33,22 @@ The two tables shown correspond to the two .pbt files in the root directory.
 - *Double Click "Quick Pocket History"* ($\color{red}{(5)}$ above) to bring up the Player History Window shown below
 
 ![PokerBuddy Main Window](Images/PokerBuddy_PlayerHistory_View_Ann.jpg)
+
+
+- *Double Click "Quick Pocket History"* ($\color{red}{(5)}$ above) to bring up the Player History Window shown below
+
+![PokerBuddy History Window](Images/PokerBuddy_PlayerHistory_View_Ann.jpg)
+
+- **$\color{red}{(1)}$**  **Round Filter:** Double-Click to Filter Hand History by Round (Example Below)
+
+![PokerBuddy History Window](Images/PokerBuddy_PlayerHistory_View_2.jpg) ![PokerBuddy History Window](Images/PokerBuddy_PlayerHistory_View_3.jpg)
+
+- **$\color{red}{(2)}$** **Action Filter:**  Double Click an Icon to Filter Hand History by Specific Action in a Round (Not Implemented Yet)
+- **$\color{red}{(3)}$** **Card Icons:** Display the Card(s) the player recieved for a given round. Pre-Flop is only visble if the player went to the showdown
+- **$\color{red}{(4)}$** **Action Bar:** Displays the Actions taken during each round of the Game. **$\color{green}{Green \space Bar = Player \space won \space the \space hand.}$**
+- **$\color{red}{(5)}$** **Action Icons:** Display the actions taken by the player.
+  <BR> **Action:**  ![sb](Images/S0.jpg) Small Blind  ![bb](Images/L1.jpg) Big Blind  ![fold](Images/f0.jpg) Fold ![check](Images/k0.jpg) Check ![bet](Images/b0.jpg) Bet  ![call](Images/c0.jpg) Call ![raise](Images/r0.jpg) Raise.
+ <BR> **Amount (Limit Only):** ![0](Images/0.jpg) 0  ![1](Images/1.jpg) 1  ![2](Images/2.jpg) 2   ![3](Images/3.jpg) 3   ![4](Images/4.jpg) 4
+  <BR> **Hand Histories for No-Limit Games Do Not Use Color.** Instead Mouse-Over to open a pop-up text showing the amount of the bet or raise
+
+  
